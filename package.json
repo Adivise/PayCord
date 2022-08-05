@@ -1,0 +1,26 @@
+{
+  "name": "paycord",
+  "version": "1.0.1",
+  "description": "✈ Join Discord: https://discord.gg/4pk97A2 👌",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1"
+  },
+  "author": "Adivise",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adivise/PayCord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adivise/PayCord/issues"
+  },
+  "homepage": "https://github.com/Adivise/PayCord#readme",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
