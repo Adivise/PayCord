@@ -1,5 +1,3 @@
-# PayCord
-
-# Features
+# 📋 Features
 
 - [x] Give role to custom status!
