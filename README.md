@@ -2,4 +2,4 @@
 
 # Features
 
-[x] Give role to custom status!
+- [x] Give role to custom status!
